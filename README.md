@@ -1,5 +1,5 @@
-# Minecraft-Essentials-List
-Best Minecraft Bedrock List
+# Minecraft Essentials List
+Best Minecraft Bedrock List.
 This list is the easyist and survival friendly essentials not doing to much to change the game
 (This will prob get updated)
 
