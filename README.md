@@ -4,13 +4,13 @@ This list is the easyist and survival friendly essentials not doing to much to c
 (This will prob get updated)
 
 - Minecraft Essentials * 1
-- https://discord.gg/uugKWbQcN4
+ https://discord.gg/uugKWbQcN4
 
 - Leaf Essentials * 2
-- https://discord.gg/9jq8jdFGDu
+ https://discord.gg/9jq8jdFGDu
   
 - NusaEssentials * 3
-- https://discord.gg/WeYsMJ4mdP
+ https://discord.gg/WeYsMJ4mdP
 
 - Vex Essentials * 4
-- https://discord.gg/exAKZ4UAeX
+ https://discord.gg/exAKZ4UAeX
